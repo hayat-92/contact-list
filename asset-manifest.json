@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contact-list/static/css/main.12912f77.css",
+    "main.js": "/contact-list/static/js/main.7fe1d076.js",
+    "index.html": "/contact-list/index.html",
+    "main.12912f77.css.map": "/contact-list/static/css/main.12912f77.css.map",
+    "main.7fe1d076.js.map": "/contact-list/static/js/main.7fe1d076.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12912f77.css",
+    "static/js/main.7fe1d076.js"
+  ]
+}
